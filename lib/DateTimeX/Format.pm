@@ -1,4 +1,6 @@
 package DateTimeX::Format;
+
+use 5.006;
 use Moose::Role;
 
 use strict;
